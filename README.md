@@ -2,7 +2,7 @@
 
 The purpose of this exercise is to familiarize you with basic usage of standard input stream.
 
-Estimated workload of this exercise is _5 minutes_.
+Estimated workload of this exercise is _15 minutes_.
 
 ### Description
 Please, proceed to the class [MeetAStranger](src/main/java/com/epam/rd/autotasks/meetastranger/MeetAStranger.java).
